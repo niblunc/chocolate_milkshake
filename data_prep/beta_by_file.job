@@ -1,0 +1,9 @@
+#!/bin/bash
+#SBATCH --job-name=betaseriesf1
+#SBATCH -o /projects/niblab/experiments/chocolate_milkshake/data/error_files/feat1_beta_out_%A.txt
+#SBATCH -e /projects/niblab/experiments/chocolate_milkshake/data/error_files/feat1_beta_err_%A.txt
+
+/projects/niblab/modules/software/fsl/5.0.10/bin/feat $1 
+
+
+
