@@ -1,0 +1,22 @@
+#!/bin/bash
+#SBATCH --job-name=chocoBIDS
+#SBATCH -N 1
+#SBATCH -c 1
+#SBATCH -t 2:00:00
+## %A == SLURM_ARRAY_JOB_ID
+## %a == SLURM_ARRAY_TASK_ID
+#SBATCH -o /projects/niblab/experiments/chocolate_milkshake/code/error_files/bids_%a_out.txt
+#SBATCH -e /projects/niblab/experiments/chocolate_milkshake/code/error_files/bids_%a_err.txt
+
+if [ ${SLURM_ARRAY_TASK_ID} -lt 10 ]; then
+    id="00${SLURM_ARRAY_TASK_ID}"
+elif [ ${SLURM_ARRAY_TASK_ID} -lt 100 ]; then
+    id="0${SLURM_ARRAY_TASK_ID}"
+else
+    id="${SLURM_ARRAY_TASK_ID}"
+fi
+
+singularity exec -B /:/work_dir /projects/niblab/singularity_images/heudiconv0.9.0.sif \
+heudiconv -d /work_dir/projects/niblab/data/eric_data/dicoms/wave2/Dicoms/*/*{subject}/* -s $id -ss $1 \
+-f /work_dir/projects/niblab/experiments/chocolate_milkshake/code/choco_heuristic.py \
+-c dcm2niix --overwrite -o /work_dir/projects/niblab/experiments/chocolate_milkshake/data/bids -b 
