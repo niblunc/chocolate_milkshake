@@ -1,0 +1,155 @@
+ID,Scan Date,Scan time,Ate (hrs),Hunger,Snack,"Sex (1=m, 2=f)",Protocol #,Paradigm 1,Paradigm 2,Paradigm 3,Paradigm 4,Paradigm 5,Paradigm 6,Paradigm 7,Notes:
+001,8/4/2012,12:03,2,6,0,1,3,local field map,imagine,milkB,milkC,GNG1,GNG2,rage,
+002,6/29/2012,13:30,4,4,0,1,999,local field map,milkA,milkB,rage,imagine,GNG1,GNG2,
+003,,,,,,,,,,,,,,,
+004,30-Jul,15:13,999,7,0,2,1,local field map,milkA,milkB,imagine,GNG1,GNG2,rage,
+005,8/5/2012,10:05,8,7,0,1,4,local field map,milkC,milkB,imagine,GNG2,GNG1,rage,
+006,7/26/2012,10:29,11,3,0,2,999,local field map,milkB,milkA,imagine,GNG2,GNG1,rage,
+007,8/19/2012,10:43,13,1,0,1,999,local field map,imagine,GNG1,GNG2,milkB,milkC,rage,"MatLab was not recognizing our commands, after adding the Chocolate Folder under ""Set Path, commands were recognized but images would not load so milkB and milkC were not run; second scan was run on 8/28/12)"
+008,7/23/2012,10:50,10,5,0,2,999,local field map,milkB,milkA,imagine,rage,GNG2,GNG1,"Manually triggered milkshakes adjust 4 sec, GNG1 changed code and tested before hand again did not record, GNG2 tested button box did not record response, milkB couple false starts ended short"
+009,8/5/2012,12:00,12,4,0,1,5,local field map,GNG1,GNG2,milkB,milkD,imagine,rage,
+010,7/30/2012,13:45,1.5,7.5,1,2,12,local field map,milkD,milkA,imagine,GNG2,GNG1,rage,"imagine participant possibly fell asleep, GNG2 participant said she dozed off"
+011,8/1/2012,12:28,14,5,0,2,2,local field map,milkB,milkA,GNG2,GNG1,imagine,rage,"participant moved legs in between scans, but seemed pretty still during scans"
+012,8/15/2012,12:07,4,5,0,1,2,local field map,milkB,milkA,GNG2,GNG1,imagine,rage,
+013,8/14/2012,10:46,2,7,0,1,12,local field map,milkD,milkA,imagine,GNG2,GNG1,rage,
+014,7/26/2012,11:57,4,4,0,2,999,local field map,milkC,milkD,GNG1,GNG2,imagine,rage,
+015,7/23/2012,13:53,3.5,7,0,1,999,local field map,imagine,milkC,milkA,GNG1,rage,GNG2,
+016,,,,,,,,,,,,,,,
+017,7/25/2012,14:31,3,8,1,2,999,local field map,milkA,milkB,rage,imagine,GNG1,GNG2,
+018,7/25/2012,12:56,7.5,6,0,1,999,local field map,milkB,milkC,rge,GNG1,GNG2,imagine,"rage; syringe at 43 after completing milkC, GNG1 started scan before program ready restarted scan"
+019,7/27/2012,15:14,17,6,0,1,8,local field map,GNG2,GNG1,milkD,milkC,imagine,rage,
+020,8/7/2012,12:57,12,4,0,2,7,local field map,imagine,milkC,milkD,GNG1,GNG2,rage,
+021,8/7/2012,11:32,4.4,6,0,1,6,local field map,imagine,milkD,milkB,GNG2,GNG1,rage,
+022,7/27/2012,13:47,4,8,1,2,3,local field map,imagine,milkC,milkD,GNG1,GNG2,rage,"imagine crossed and uncrossed legs, milkD moved legs"
+023,,,,,,,,,,,,,,,
+024,,,,,,,,,,,,,,,
+025,,,,,,,,,,,,,,,
+026,7/28/2012,11:04,5,8,1,1,9,local field map,imagine,milkC,milkA,GNG1,GNG2,rage,milkA had to relocalize (participant had to go to the bathroom)
+027,8/15/2012,10:22,3,5,0,1,1,local field map,milkA,milkB,imagine,GNG1,GNG2,rage,"local- presentation would not open, milkA-notices 5s being recorded on matlab, imagine-needed to go to bathroom after imagine (run local again), scans were running late before ours began"
+028,7/30/2012,10:33,15.5,7,0,2,10,local field map,milkA,milkC,imagine,GNG2,GNG1,rage,
+029,7/13/2012,1:08,4,5,0,1,11,local field map,GNG1,GNG2,milkA,rage,milkD,imagine,"GNG1 asked for a break, pulled out table to talk to him, milkD needed another break"
+030,8/1/2012,14:15,3,6,0,1,3,local field map,imagine,milkB,milkC,GNG1,GNG2,rage,"participant said manifold fell out of his mouth halfway through milkB, however no spills were detected"
+031,8/4/2012,12:38,5,3,0,2,2,local field map,milkB,milkA,GNG2,GNG1,imagine,rage,
+032,8/7/2012,14:34,2.5,6,0,1,8,local field map,GNG2,GNG1,milkD,milkC,imagine,rage,
+033,8/8/2012,12:08,4,9,1,2,9,local filed map,imagine,milkC,milkA,GNG1,GNG2,rage,
+034,8/21/2012,14:40,16,6,1,1,6,local field map,imagine,milkD,milkB,GNG2,GNG1,rage,Accidentally started imagine again instead of GNG1- had to restart it
+035,8/21/2012,11:42,1.5,6,0,1,4,local field map,milkC,milkB,imagine,GNG2,GNG1,rage,
+036,,,,,,,,,,,,,,,
+037,8/21/2012,13:20,1,6,0,2,5,local field map,GNG1,GNG2,milkB,milkD,imagine,rage,
+038,8/29/2012,10:28,16.5,3,0,2,8,local field map,GNG2,GNG1,milkD,milkC,imagine,rage,
+039,8/29/2012,12:05,5,1,0,2,9,local field map,imagine,milkC,milkA,GNG1,GNG2,rage,
+040,9/22/2012,11:35,1.75,2,0,2,5,local field map,GNG1,GNG2,milkB,milkD,imagine,rage,"silver box not set up, had to rescan milkB; imagine participant said she needed to use BR but wanted to see if she could continue (she never needed to stop to use BR)"
+041,8/28/2012,13:43,15,5,0,2,7,local field map,imagine,milkC,milkD,GNG1,GNG2,rage,
+042,9/8/2012,15:17,4,4,0,2,12,local field map,milkD,milkA,imagine,GNG2,GNG1,rage,
+043,9/11/2012,18:17,2.5,5,0,2,1,local field map,milkA,milkB,imagine,GNG1,GNG2,rage,had to restart local due to bobby pin in hair
+044,8/29/2012,13:35,4,7,0,1,10,local field map,milkA,milkC,imagine,GNG2,GNG1,rage,
+045,9/29/2012,12:06,2.5,6,0,1,10,local field map,milkA,milkC,imagine,GNG2,GNG1,rage,
+046,9/8/2012,13:41,3,5,0,2,11,local field map,GNG1,GNG2,milkA,milkD,imagine,rage,
+047,9/12/2012,18:06,3.5,3,0,1,2,local field map,milkB,milkA,GNG2,GNG1,imagine,rage,"Error message on GNG1 ""excessive motion"".  Had to re-run GNG1"
+048,9/19/2012,18:00,1,4,0,1,4,local field map,milkC,milkB,imagine,GNG2,GNG1,rage,
+049,12/8/2012,13:38,4,5,0,2,9,local field map,imagine,milkC,milkA,GNG1,GNG2,rage,
+050,,,,,,,,,,,,,,,
+051,9/22/2012,13:41,2,2,0,1,6,local field map,imagine,milkD,milkB,GNG2,GNG1,rage,"arrived early no one scanning before us, scan moved up to 13:41"
+052,9/29/2012,10:33,13,5,0,2,9,local field map,imagine,milkC,milkA,GNG1,GNG2,rage,milkC had to restart matlab (not triggering)
+053,9/30/2012,15:33,3.5,6,0,2,12,local field map,imagine,milkD,milkA,GNG2,GNG1,rage,"milkD scan completed but fMRI ""failed"", didn't realize until after milkA but fMRI skipped ahead to imagine, re-scanned milkD, imagine, and milkA; imagine had to refill tateless for A so did imagine between A and D"
+054,9/19/2012,16:32,4,5,0,2,3,local field map,imagine,milkB,milkC,GNG1,GNG2,rage,
+055,9/30/2012,14:05,1.5,4,0,2,11,local field map,GNG1,GNG2,milkA,milkD,imagine,rage,
+056,9/27/2012,12:43,15,6,1,1,7,local field map,imagine,milkC,milkD,GNG1,GNG2,rage,"milkD pump 3 tube popped off syringe mid task, replaced without stopping"
+057,9/27/2012,14:15,15,5,1,1,8,local field map,GNG2,GNG1,milkD,milkC,imagine,rage,
+058,10/6/2012,16:22,5,5,0,2,2,local field map,milkB,milkA,GNG2,GNG1,imagine,rage,milkA had to close and restart matlab
+059,10/6/2012,14:56,1.5,7,0,2,1,local field map,milkA,milkB,imagine,GNG1,GNG2,rage,had to relocalize at beginning because the participant was not situated in the fMRI so they could see the computer screen
+060,10/12/2012,13:11,3,6,0,1,3,local field map,imagine,milkB,milkC,GNG1,GNG2,rage,
+061,10/12/2012,11:40,3.5,4,0,1,4,local field map,milkC,milkB,imagine,GNG2,GNG1,rage,"Matlab was showing a ""5"" every time the trigger was sent but everything seemed to work fine. Restarted Matlab before milkB and it worked fine this run."
+062,10/12/2012,14:38,5,7,0,2,5,local field map,GNG1,GNG2,milkB,milkD,imagine,rage,
+063,10/15/2012,14:02,2.5,2,0,2,9,local field map,imagine,milkC,milkA,GNG1,GNG2,rage,
+064,10/15/2012,12:37,3,4,0,2,10,local field map,milkA,milkC,imagine,GNG2,GNG1,rage,
+065,11/3/2012,11:11,16,7,1,2,2,local field map,milkB,milkA,GNG2,GNG1,imagine,rage,needs milk at scan
+066,10/14/2012,11:12,14,7,1,2,6,local field map,imagine,milkD,milkB,GNG2,GNG1,rage,
+067,,,,,,,,,,,,,,,
+068,10/14/2012,12:46,4.5,4,0,1,7,local field map,imagine,milkC,milkD,GNG1,GNG2,rage,
+069,11/18/2012,14:00,4,5,1,2,6,local field map,imagine,milkD,milkB,GNG2,GNG1,rage,
+070,,,,,,,,,,,,,,,
+071,10/30/2012,18:00,2,1,0,2,1,local field map,milkA,milkB,imagine,GNG1,GNG2,rage,
+072,10/30/2012,13:33,4.5,6,0,2,11,local field map,GNG1,GNG2,milkA,milkD,imagine,rage,
+073,10/14/2012,14:12,5,2,0,2,8,local field map,GNG2,GNG1,milkD,milkC,imagine,rage,
+074,,,,,,,,,,,,,,,
+075,11/4/2012,11:56,7,6,1,1,5,local field map,GNG1,GNG2,milkB,milkD,imagine,rage,
+076,10/28/2012,15:02,3.5,4,0,2,12,local field map,milkD,milkA,imagine,GNG2,GNG1,rage,
+077,11/17/2012,12:05,16,3,1,1,3,local field map,imagine,milkB,milkC,GNG1,GNG2,rage ,
+078,11/4/2012,13:22,4,5,0,2,6,local field map,imagine,milkD,milkB,GNG2,GNG1,rage,
+079,11/21/2012,11:10,5.25,4,0,1,7,local field map,imagine,milkC,milkD,GNG1,GNG2,rage,
+080,11/18/2012,12:34,14.5,7,0,2,5,local field map,GNG1,GNG2,milkB,milkD,imagine,rage,
+081,11/3/2012,12:58,2,3,0,1,3,local field map,imagine,milkB,milkC,GNG1,GNG2,rage ,
+082,11/17/2012,13:38,13,8,1,2,4,local field map,milkC,milkB,imagine,GNG2,GNG1,rage,"There was some confusion over her ID number.  She is 082, but  on milkC she was typed in as cs083."
+083,12/13/2012,13:37,3.5,8,1,2,9,local field map,imagine,milkC,milkA,GNG1,GNG2,rage,
+084,12/11/2012,12:07,14,7,1,2,12,local field map,milkD,milkA,imagine,GNG2,GNG1,rage,
+085,12/23/2012,10:02,15,3,0,1,1,local field map,milkA,milkB,imagine,GNG1,GNG2,rage,
+086,,,,,,,,,,,,,,,
+087,12/8/2012,15:01,1,5,0,1,10,local field map,milkA,milkC,imagine,GNG2,GNG1,rage,"During milkA, had to prime pumps to make sure participant received milkshake; During GNG2, participant had to use bathroom so reran local/field"
+088,12/8/2012,12:05,12,7,1,1,8,local field map,GNG2,GNG1,milkD,milkC,imagine,rage,"participant moved feet a lot, reminded to stay still"
+089,12/9/2012,17:05,2.25,5,0,2,11,local field map,GNG1,GNG2,milkA,milkD,imagine,rage,
+090,12/22/2012,10:43,13,5,0,2,10,local field map,milkA,milkC,imagine,GNG2,GNG1,rage,
+091,3/30/2013,13:02,17,5,1,2,9,local field map,imagine,milkC,milkA,GNG1,GNG2,rage,
+092,1/3/2013,14:30,16.5,4,0,2,7,local field map,imagine,milkC,milkD,GNG1,GNG2,rage,
+093,12/23/2012,13:00,16,2,0,2,3,local field map,imagine,milkB,milkC,GNG1,GNG2,rage ,
+094,12/22/2012,12:26,3,4,0,1,11,local field map,GNG1,GNG2,milkA,milkD,imagine,rage,
+095,12/22/2012,13:50,4.5,5,0,2,12,local field map,milkD,milkA,imagine,GNG2,GNG1,rage,
+096,12/23/2012,11:30,15,6,0,2,2,local field map,milkB,milkA,GNG2,GNG1,imagine,rage,
+097,12/28/2012,14:01,3,5,0,2,4,local field map,milkC,milkB,imagine,GNG2,GNG1,rage,
+098,12/28/2012,15:30,4.5,5,0,1,5,local field map,GNG1,GNG2,milkB,milkD,imagine,rage,
+099,12/28/2012,17:06,2,5,0,2,6,local field map,imagine,milkD,milkB,GNG2,GNG1,rage,
+100,1/6/2013,12:57,12,7,0,2,9,local field map,imagine,milkC,milkA,GNG1,GNG2,rage,
+101,1/6/2013,14:30,3.5,5,0,2,10,local field map,milkA,milkC,imagine,GNG2,GNG1,rage,
+102,1/6/2013,11:30,1,4,0,2,8,local field map,GNG2,GNG1,milkD,milkC,imagine,rage,
+103,1/13/2013,11:01,12,3,0,1,10,local field map,milkA,milkC,imagine,GNG2,GNG1,rage,
+104,1/12/2013,15:30,3,2,0,1,9,local field map,imagine,milkC,milkA,GNG1,GNG2,rage,
+105,1/13/2013,12:27,14.5,7,0,1,11,local field map,GNG1,GNG2,milkA,milkD,imagine,rage,
+106,1/13/2013,13:59,4,4,0,2,12,local field map,milkD,milkA,imagine,GNG2,GNG1,rage,
+107,1/20/2013,15:45,4.5,2,0,1,1,local field map,milkA,milkB,imagine,GNG1,GNG2,rage,Not the correct password.  Presentation not showing on correct moniter (switched moniter cables).  Milkshake A written as 107 instead of cs107.  FMRI failure had to restart (took an additional 20min).  
+108,1/25/2013,15:10,2,1,0,1,1,local field map,milkA,milkB,imagine,GNG1,GNG2,rage,
+109,2/3/2013,10:30,12.5,6,0,2,5,local field map,GNG1,GNG2,milkB,milkD,imagine,rage,
+110,2/2/2013,11:08,3,4,0,1,3,local field map,imagine,milkB,milkC,GNG1,GNG2,rage ,
+111,2/2/2013,12:33,17.5,3,0,2,4,local field map,milkC,milkB,imagine,GNG2,GNG1,rage,
+112,2/3/2013,11:58,17,1,0,2,7,local field map,imagine,milkC,milkD,GNG1,GNG2,rage,
+113,1/27/2013,14:15,4,6,0,1,2,local field map,milkB,milkA,GNG2,GNG1,imagine,rage,MilkshakeB would not trigger.  Restarted computer and Matlab worked.
+114,2/3/2013,14:18,5,2,0,1,6,local field map,imagine,milkD,milkB,GNG2,GNG1,rage,Participant was running late.  Scan began at 14:18 instead of the scheduled 13:30.
+115,2/10/2013,14:55,2,3,0,1,7,local field map,imagine,milkC,milkD,GNG1,GNG2,rage,participant arrived late (2PM); usb port had been removed.  Had to wait until someone could come switch out the mouse and usb port before we were able to plug in our usb drive and then the pumps. Usb port is currently located under the table.
+116,2/23/2013,9:02,13,5,0,2,9,local field map,imagine,milkC,milkA,GNG1,GNG2,rage,
+117,2/23/2013,10:33,12.5,7,0,2,10,local field map,milkA,milkC,imagine,GNG2,GNG1,rage,
+118,2/17/2013,14:00,15,2,0,1,8,local field map,GNG2,GNG1,milkD,milkC,imagine,rage,second field map run
+119,2/24/2013,12:00,12,7,1,2,11,local field map,GNG1,GNG2,milkA,milkD,imagine,rage,
+120,3/3/2013,11:00,13.5,7,1,2,12,local field map,milkD,milkA,imagine,GNG2,GNG1,rage,
+121,3/30/2013,11:39,15.5,7,1,2,8,local field map,GNG2,GNG1,milkD,milkC,imagine,rage,Moughpiece clogged during pre-scan check- had to remove and clean which set us back about 8 minutes.
+122,3/23/2013,11:56,13.3,8,1,1,3,local field map,imagine,milkB,milkC,GNG1,GNG2,rage ,"Mouthpiece was plugged-trouble shooting took about 20 min (we couldn't tell if the issue was the tubing, syringe or mouth piece), hence the late start time."
+123,3/23/2013,13:21,3,7,0,2,4,local field map,milkC,milkB,imagine,GNG2,GNG1,rage,Scan will show 2 GNG2-started before I hit enter on paradigm so stopped and restarted scan.  The participant prior to this got started late because of the mouth piece was clogged so this scan als started a little late.
+124,3/17/2013,15:00,4,6,0,2,2,local field map,milkB,milkA,GNG2,GNG1,imagine,rage,
+125,4/7/2013,13:54,3,1,0,1,7,local field map,imagine,milkC,milkD,GNG1,GNG2,rage,"two imagines, first was triggered by mistake- stopped and ran again."
+126,3/24/2013,12:29,16.5,7,1,2,6,local field map,imagine,milkD,milkB,GNG2,GNG1,rage,
+127,3/24/2013,10:58,3,4,0,1,5,local field map,GNG1,GNG2,milkB,milkD,imagine,rage,
+128,3/17/2013,13:30,4.5,6,0,1,1,local field map,milkA,milkB,imagine,GNG1,GNG2,rage,
+129,,,,,,,,,,,,,,,
+130,4/27/2013,12:29,4,3,0,2,2,local field map,milkB,milkA,GNG2,GNG1,imagine,rage,
+131,4/7/2013,12:25,12.5,6,0,2,12,local field map,milkD,milkA,imagine,GNG2,GNG1,rage,
+132,4/27/2013,11:00,11,8,1,1,3,local field map,imagine,milkB,milkC,GNG1,GNG2,rage,
+133,4/7/2013,11:00,15,5,0,2,11,local field map,GNG1,GNG2,milkA,milkD,imagine,rage,
+134,,,,,,,,,,,,,,,
+135,,,,,,,,,,,,,,,
+136,5/11/2013,8:26,11.5,4,0,0,8,local field map,GNG2,GNG1,milkD,milkC,imagine,rage,This is her second time coming to the AIRC.
+137,4/13/2013,9:25,12,6,0,2,2,local field map,milkB,milkA,GNG2,GNG1,imagine,rage,
+138,4/28/2013,13:58,12,4,0,1,6,local field map,imagine,milkD,milkB,GNG2,GNG1,rage,
+139,5/11/2013,12:00,13.5,9,1,1,9,local field map,imagine,milkC,milkA,GNG1,GNG2,rage,
+140,,,,,,,,,,,,,,,
+141,,,,,,,,,,,,,,,
+142,4/28/2013,12:31,13,7,1,1,5,local field map,GNG1,GNG2,milkB,milkD,imagine,rage,
+143,5/12/2013,11:03,5.5,4,0,1,10,local field map,milkA,milkC,imagine,GNG2,GNG1,rage,
+144,5/19/2013,11:03,4,2,0,1,11,local field map,GNG1,GNG2,milkA,milkD,imagine,rage,
+145,5/19/2013,12:29,5,1,0,1,12,local field map,milkD,milkA,imagine,GNG2,GNG1,rage,
+146,5/26/2013,10:38,8,7,0,1,2,local field map,milkB,milkA,GNG2,GNG1,imagine,rage,
+147,5/26/2013,9:00,3,5,0,1,1,local field map,milkA,milkB,imagine,GNG1,GNG2,rage,"movement during 1st field map, ran again. Milkshake A didn't start at first. Bill rearranged some things and it worked."
+148,,,,,,,,,,,,,,,
+149,,,,,,,,,,,,,,,
+150,10/1/2013,14:00,3,5,0,1,3,local field map,imagine,milkB,milkC,GNG1,GNG2,rage,
+151,10/4/2013,12:09,13,6,0,2,4,local field map,milkC,milkB,imagine,GNG2,GNG1,rage,
+152,9/29/2013,15:01,3,10,1,1,2,local field map,milkB,milkA,GNG2,GNG1,imagine,rage,Participant said head was uncomfortable before GNG2 and felt tight. He said he would be ok for the remainder of the scan. Imagine was stopped in the middle due to large head movement and restarted.
+153,10/13/2013,16:30,5.5,2,0,2,12,local field map,milkD,milkA,imagine,GNG2,GNG1,rage,
+154,10/6/2013,14:35,5.25,7,0,2,9,local field map,imagine,milkC,milkA,GNG1,GNG2,rage,"""Water temp too hot""error- Bill said everything was still good to go."
